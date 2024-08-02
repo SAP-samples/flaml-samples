@@ -1,0 +1,3 @@
+# SAP Datasphere DB Connection Details
+
+The provided `db_connection.json` configuration file is a dummy connection file, as it only provides the names of the parameters needed for the connection, but none of the values. For a detailed guide on how to configure the `db_connection.json` file, please read this [guide](https://github.com/SAP-samples/datasphere-fedml/blob/main/dbconnection.md). Note, that the guide refers to the `db_connection.json` file in this repo as `config.json`.

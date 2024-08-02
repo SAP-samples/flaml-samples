@@ -1,0 +1,13 @@
+{
+    "address": "",
+    "port": "",
+    "user": "",
+    "password": "",
+    "schema": "",
+    "encrypt": "",
+    "sslValidateCertificate": "",
+    "disableCloudRedirect": "",
+    "communicationTimeout": "",
+    "autocommit": "",
+    "sslUseDefaultTrustStore": ""
+}
