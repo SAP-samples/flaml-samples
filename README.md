@@ -16,7 +16,7 @@ These demos cover the basics for how to use the FLAML library. For those who are
 
 ## Requirements
 
-Python version >= 3.8. Specific Python packages are already contained in the notebook examples.
+Python version >= 3.8. Specific Python packages, and their installation commands, are already contained in the notebook examples.
 
 ## Download and Installation
 
